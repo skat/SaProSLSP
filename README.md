@@ -2,8 +2,7 @@
 Test af Personområdet
 
 PersonKontrolOplysningerHent
-Link til 
-[PersonKontrolOplysningerHent.zip] (https://github.com/skat/SaProSLSP/blob/master/SLSP/20110622/PersonKontrolOplysningHent.r4622.zip?raw=true)
+[PersonKontrolOplysningerHent.zip](https://github.com/skat/SaProSLSP/blob/master/SLSP/20110622/PersonKontrolOplysningHent.r4622.zip?raw=true)
 
 
 Link til BankHent ( Formatteret tekst )
